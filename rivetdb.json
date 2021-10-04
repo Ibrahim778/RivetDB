@@ -8861,7 +8861,7 @@
 		"errors" : {
             "0x0702": {
                 "name" : "SCE_PAF_ERROR_THREAD_ALREADY_STARTED",
-                "description" : "The thread you're trying has already been started once."
+                "description" : "The thread you're trying to start has already been started once."
             }
         }
 	},
